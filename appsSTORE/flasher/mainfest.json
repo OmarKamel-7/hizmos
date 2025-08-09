@@ -1,0 +1,9 @@
+{
+    "name": "Oscilloscope",
+    "version": "1.2",
+    "author": "HIZMOS Team",
+    "description": "Real-time analog and digital signal viewer.",
+    "category": "Tools",
+    "file": "oscilloscope.ino",
+    "icon": "oscilloscope.png"
+}
